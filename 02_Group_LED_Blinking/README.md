@@ -13,13 +13,16 @@ This project demonstrates the control of 8 LEDs connected to PORTB of the PIC16F
 
 Initially, Group 1 is ON and Group 2 is OFF. After a short delay, Group 1 turns OFF and Group 2 turns ON. This sequence repeats continuously.
 
-## Components Used
+## Hardware Used
 
 * PIC16F84A Microcontroller
 * 8 LEDs
-* Proteus 8.17
+
+## Software Used
+
 * MPLAB X IDE
 * XC8 Compiler
+* Proteus 8.17
 
 ## Files Included
 
@@ -55,5 +58,7 @@ A software delay is used between pattern changes to make the blinking visible.
 
 ## Author
 
-Subodh Lakra
-M.Tech VLSI Design and Embedded Systems
+**Subodh Lakra**
+
+M.Tech  
+VLSI Design and Embedded Systems
