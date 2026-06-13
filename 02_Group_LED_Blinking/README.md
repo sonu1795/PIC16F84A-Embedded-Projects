@@ -40,11 +40,11 @@ A software delay is used between pattern changes to make the blinking visible.
 
 ### Group 1 Active
 
-![Group 1 Active](Screenshots/group_on.png)
+![Group 1 Active](Screenshots/group1_on.png)
 
 ### Group 2 Active
 
-![Group 2 Active](Screenshots/group_off.png)
+![Group 2 Active](Screenshots/group2_on.png)
 
 ## Learning Outcomes
 
@@ -56,4 +56,4 @@ A software delay is used between pattern changes to make the blinking visible.
 ## Author
 
 Subodh Lakra
-M.Tech VLSI Design and Embedde Systems
+M.Tech VLSI Design and Embedded Systems
