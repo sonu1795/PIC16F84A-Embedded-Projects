@@ -34,4 +34,5 @@ Each project folder contains:
 ## Author
 
 Subodh Lakra
-M.Tech (VLSI Design)
+M.Tech
+VLSI Design and Embedded Systems
