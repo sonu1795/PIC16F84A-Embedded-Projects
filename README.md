@@ -20,5 +20,7 @@ Embedded C projects developed using:
 
 ## Author
 
-Subodh Lakra
-M.Tech VLSI Design and Embedded Systems
+**Subodh Lakra**
+
+M.Tech  
+VLSI Design and Embedded Systems
